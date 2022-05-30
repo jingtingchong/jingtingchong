@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jing TIng</h1>
+<h1 align="center">Hi 👋, I'm Jing Ting</h1>
 <h3 align="center">A passionate data scientist from Malaysia</h3>
 
 - 🔭 I’m currently working on **Machine Learning and Optimization Projects**
